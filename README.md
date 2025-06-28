@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanisha Shaha</h1>
 
 <div align="center"›
-<a href="mailto:shaha.tanisha@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=shaha.tanisha@gmail.com&su=Hello%20Tanisha&body=I%20wanted%20to%20say%20hi!">
 <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&log0=gmail&logoColor=red" target="_blank" />
 </a>
 <a href="https://linkedin.com/in/tanisha-shaha" target="_blank">
