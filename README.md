@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tanisha Shaha</h1>
 
 <div align="center"›
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=shaha.tanisha@gmail.com&su=Hello%20Tanisha&body=I%20wanted%20to%20say%20hi!" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
-  </a>
+<a href="mailto:shaha.tanisha@gmail.com?subject=Hello%20Tanisha&body=I%20wanted%20to%20say%20hi!" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
+</a>
+
 <a href="https://linkedin.com/in/tanisha-shaha" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </a>
